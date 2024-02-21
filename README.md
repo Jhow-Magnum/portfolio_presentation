@@ -7,7 +7,7 @@ HTML5
 CSS3
 
 ### Autor:
-Jhow Magnum - <a href="https://www.linkedin.com/in/jhow-magnum-n-cardoso-583a63180/">linkedIn</a>
+Jhow Magnum - <a href="https://www.linkedin.com/in/jhow-magnum-n-cardoso-583a63180/">LinkedIn</a>
 
 ## �� Tecnologias
 <div>
