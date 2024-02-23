@@ -82,6 +82,7 @@ body {
 .apresentacao__conteudo {
     width: 50%;
     display: flex;
+    text-align: center;
     flex-direction: column;
     gap: 40px;
 
@@ -97,16 +98,14 @@ body {
 .apresentacao__conteudo__paragrafo {
     font-size: var(--tamanho-fonte24);
     font-family: var(--fonte-secundaria);
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    gap: 10px;
     
 }
 
-span:hover {
-    cursor: pointer;
-    color: var(--cor-terciaria);
-    font-style: oblique;
-    font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
-}
+
 
 .apresentacao__links {
     display: flex;
@@ -131,7 +130,7 @@ span:hover {
     border: 2px solid var(--cor-terciaria);
     border-radius: 8px;
     padding: 21.5px 0;
-    width: 50%;
+    width: 73%;
     font-size: var(--tamanho-fonte24);
     text-align: center;
     text-decoration: none;
