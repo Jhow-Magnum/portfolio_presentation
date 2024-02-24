@@ -2,10 +2,10 @@
 
 /* Variáveis CSS */
 :root {
-    --cor-primaria: #000000;
+    --cor-primaria: #071014;; 
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #22D4FD;
-    --cor-hover: #272727;
+    --cor-terciaria: #94FC13;
+    --cor-hover: #326e3f2a;
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -130,7 +130,7 @@ body {
     border: 2px solid var(--cor-terciaria);
     border-radius: 8px;
     padding: 21.5px 0;
-    width: 73%;
+    width: 60%;
     font-size: var(--tamanho-fonte24);
     text-align: center;
     text-decoration: none;
@@ -143,7 +143,7 @@ body {
 /* mouse :hover */
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
-    width: 300px;
+    width: 61%;
     font-size: var(--tamanho-fonte28) ;
 }
 
