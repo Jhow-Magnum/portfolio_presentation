@@ -15,6 +15,8 @@ Jhow Magnum - <a href="https://www.linkedin.com/in/jhow-magnum-n-cardoso-583a631
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<img src="img/portfolio-presentation-jhow-magnum.jpeg" alt="">
+
 
 
 
